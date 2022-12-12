@@ -1,5 +1,6 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=PROJECT02&fontSize=90" />	
+	
+ ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=PROJECT02&tSize=90&animation=fadeIn&fontAlignY=38&desc=핵심융합프로젝트&descAlign=62)	
 </div>
 <div align=center>
 	<h3>데이터 크롤링 기반 부동산 정보 제공 서비스, 맛동산</h3>
@@ -96,4 +97,4 @@ JSP/Servlet 으로 웹 페이지를 구성하였고 Kakao Map API, Chart.js, Jav
 * DAO - Data Access Object
 * DTO - Data Transfer Object = Value Object
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
